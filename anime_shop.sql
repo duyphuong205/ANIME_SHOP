@@ -1,5 +1,5 @@
 go
-create database ANIME_SHOP;
+drop database ANIME_SHOP;
 go
 use ANIME_SHOP;
 
